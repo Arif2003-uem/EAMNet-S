@@ -82,3 +82,10 @@ The system supports live detection using webcam input:
 ---
 
 ## 📂 Project Structure
+EAMNet-S/
+│── model/ # Trained model (.h5)
+│── static/ # CSS, JS files
+│── templates/ # HTML frontend
+│── app.py # Flask backend
+│── requirements.txt # Dependencies
+│── README.md # Project documentation
